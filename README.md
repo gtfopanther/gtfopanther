@@ -7,7 +7,7 @@
 ### Software Developer • OSINT Architect • AI & Data Engineering
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-Direct-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Direct-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.guskobln@gmail.com)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-website.de)
 
 ---
@@ -121,7 +121,7 @@ Eine moderne Full-Stack Plattform für digitale Bestellungen in der Gastronomie.
 ## 📫 Kontakt
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-Direct-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Direct-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.guskobln@gmail.com)
 [![Website](https://img.shields.io/badge/Meine_Website-Besuchen-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-website.de)
 
 ---
